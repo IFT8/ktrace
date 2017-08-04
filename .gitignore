@@ -33,7 +33,7 @@ target/
 .springBeans
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
@@ -45,6 +45,3 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
-### 系统生成的文件 ###
-*.log
