@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
  */
 @Data
 @NoArgsConstructor
-public class TraceContext {
+class TraceContext {
     private String traceId;
     private String spanId = "1";
     private String parentSpanId;
